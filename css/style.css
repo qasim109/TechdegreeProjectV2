@@ -5,11 +5,11 @@
 }
 
 body {
-	font-family: 'Varela Round', sans-serif;
+	font-family: 'Times New Roman';
 	line-height: 1.6;
 	margin: 0;
 	display: block;
-	/*color: #3a3a3a;*/
+	
 }
 
 p {
@@ -103,15 +103,7 @@ figure {
 .main-footer {
 	text-align: center;
 }
-/*
-.banner {
-	color: #fff;
-	background: #3acec2;
-	padding: 3.2em 0;
-    margin-bottom: 60px;
-    
-}
-*/
+
 .col {
 	padding-right: 1em;
 	padding-left: 1em;
