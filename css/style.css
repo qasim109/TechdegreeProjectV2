@@ -133,7 +133,10 @@ figure {
 }
 
 .profile {
-
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: initial;
     background-image: image("img/responsive-layout-profile.png")
 }
 
